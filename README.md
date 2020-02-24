@@ -1,7 +1,7 @@
 # Customers 
 The Customers section makes you familiar with the customer account menu, and learn to manage customer accounts according to adding, deleting and modifying data. You will also learn how to manage the KYC and Bank Details of the customer. You can also check a particular customer's loyalty statement.
 
-Following is the menu of a Subusers:
+Following is the menu of Subusers:
   * Customer group 
   * Customer
   * KYC Details
@@ -16,9 +16,8 @@ The customer page lists all sub users who were added by the administrator. Admin
 
 Pagination controls appear if there are more customer records than fit on the page, and are used to move from one page to the next.
 
-**To view customer’s detail information:**
+## KYC Details
+The KYC details section will make you learn how to manage the KYC details of the Customers. The KYC details of the customer are approved and are only for view purpose. The KYC details will be verified while adding the details from the mobile app.
 
-1) On the Admin sidebar, tap customer
-2) In the customer list, find the record to be previewed and click View icon in the Action column to open the record in view mode.
-
-
+## Bank Details
+The bank details of the customer will be displayed in te portal and will be auto verified while adding. the details here are 
