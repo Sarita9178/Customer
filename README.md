@@ -2,6 +2,7 @@
 The Customers section makes you familiar with the customer account menu, and learn to manage customer accounts according to adding, deleting and modifying data. You will also learn how to manage the KYC and Bank Details of the customer. You can also check a particular customer's loyalty statement.
 
 Following is the menu of the customer:
+
 *Customer group
 *Customers
 *KYC details
