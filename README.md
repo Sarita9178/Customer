@@ -20,4 +20,4 @@ Pagination controls appear if there are more customer records than fit on the pa
 The KYC details section will make you learn how to manage the KYC details of the Customers. The KYC details of the customer are approved and are only for view purpose. The KYC details will be verified while adding the details from the mobile app.
 
 ## Bank Details
-The bank details of the customer will be displayed in te portal and will be auto verified while adding. the details here are 
+The bank details of the customer will be displayed in the portal and will be auto verified while adding. the details here are 
